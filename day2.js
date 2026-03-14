@@ -83,3 +83,4 @@
 //using short circut evolution
 // const result = isRaining && "carry umeberelia" || "do not carry"
 // console.log(result)
+
